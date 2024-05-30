@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SAY10s-PC</id>
+    <version>1.0.0</version>
+    <title>SAY10s PC setup</title>
+    <authors>SAY10s</authors>
+    <description>Basic apps that I always need</description>
+    <dependencies>
+      <!-- The most basic apps  -->
+      <dependency id="googlechrome" version="*" />
+      <dependency id="discord" version="*" />
+      <dependency id="spotify" version="*" />
+      <dependency id="translucenttb" version="*" />
+      <dependency id="powertoys" version="*" />
+      <dependency id="logioptionsplus" version="*" />
+
+      <!-- Media editing software -->
+      <dependency id="audacity" version="*" />
+      <dependency id="shotcut" version="*" />
+      <dependency id="gimp" version="*" />
+      <dependency id="vlc" version="*" />
+
+      <!-- Coding stuff -->
+      <dependency id="git" version="*" />
+      <dependency id="vscode" version="*" />
+      <dependency id="webstorm" version="*" />
+      <dependency id="docker-desktop" version="*" />
+      <dependency id="nodejs.install" version="*" />
+
+      <!-- Gaming stuff -->
+      <dependency id="steam" version="*" />
+    </dependencies>
+  </metadata>
+</package>
+
